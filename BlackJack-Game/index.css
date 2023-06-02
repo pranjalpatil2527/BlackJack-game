@@ -1,0 +1,35 @@
+/* Complete the CSS styling according to the provided design */
+
+body {
+    margin: 0;
+    background-image: url("images/table.png");
+    background-size: cover;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.hero {
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+#start-btn {
+    
+    color : #016f32;
+    width : 300px;
+    background : goldenrod;
+    font-weight: bold;
+    padding: 10px 20px; 
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
